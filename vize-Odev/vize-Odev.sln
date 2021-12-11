@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vize-Odev", "vize-Odev\vize-Odev.csproj", "{7D0BDBE6-5A0E-4296-8EA0-C72648F3E0CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLModel1_ConsoleApp1", "MLModel1_ConsoleApp1\MLModel1_ConsoleApp1.csproj", "{A48DAD9D-53FC-46A4-B0F3-F8746E9056EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0BDBE6-5A0E-4296-8EA0-C72648F3E0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0BDBE6-5A0E-4296-8EA0-C72648F3E0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0BDBE6-5A0E-4296-8EA0-C72648F3E0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0BDBE6-5A0E-4296-8EA0-C72648F3E0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48DAD9D-53FC-46A4-B0F3-F8746E9056EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48DAD9D-53FC-46A4-B0F3-F8746E9056EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48DAD9D-53FC-46A4-B0F3-F8746E9056EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48DAD9D-53FC-46A4-B0F3-F8746E9056EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B30C6A-96EE-403C-8482-B27F74304EA6}
+	EndGlobalSection
+EndGlobal
